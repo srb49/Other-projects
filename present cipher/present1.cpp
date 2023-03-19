@@ -1,20 +1,4 @@
-/*
- * Implementation of PRESENT in C
- * v2.1, 10/13/2008
- *
- * Thomas Siebert, thomas.siebert@rub.de
- *
- *
- * Your Compiler currently should support
- * the ANSI-C99-standard.
- *
- * Tested with gcc (with Option -std=c99)
-*/
 
-
-//----------------------------------
-// Includes
-//----------------------------------
 #include <stdio.h>																						//Standard C headers...
 #include <stdint.h>
 #include <stdlib.h>
