@@ -1,12 +1,4 @@
   
-//////////////////////////////////////////////////////
-//                                                  //
-//  Lightweight block cipher PRESENT implementation //
-//  Author:                                         //
-//  Petar Tonkovic	                            //
-//                                                  //
-//////////////////////////////////////////////////////
-
 #include <stdio.h>
 #include<stdint.h>
 
